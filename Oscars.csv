@@ -1,0 +1,185 @@
+﻿Year,Ceremony,Winner,Name,ID,Runtime,IMDB_Rating,Genre,MPAA_Rating,Release_Month,Pre_Nom_Gross,Studio,Total_nominations,Director,Action,Adventure,Animation,Biography,Comedy,Crime,Drama,Family,Fantasy,History,Horror,Music,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War,Western
+2018,91,0,A Star Is Born,1517451,136,7.8," Drama, Music, Romance ", R,5,204801596, WB ,8,"Cooper, Bradley",0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+2018,91,0,Black Panther,1825683,134,7.3," Action, Adventure, Sci-Fi ", PG-13,2,700059566, BV ,7,"Coogler, Ryan",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2018,91,0,BlacKkKlansman,7349662,135,7.5," Biography, Crime, Drama ", R,10,48468750, Focus ,6,"Lee, Spike",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,91,0,Bohemian Rhapsody,1727824,134,8.1," Biography, Drama, Music ", PG-13,2,202518098, Fox ,5,"Singer, Bryan",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2018,91,1,Green Book,6966692,130,8.3," Biography, Comedy, Drama, Music ", PG-13,11,42470556, Uni. ,5,"Farrelly, Peter",0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2018,91,0,Roma,6155172,135,7.8, Drama , R,11,0, Netflix ,10,"Cuarón, Alfonso",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,91,0,The Favourite,5083738,119,7.7," Biography, Comedy, Drama, History ", R,11,22990563, FoxS ,10,"Lanthimos, Yorgos",0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2018,91,0,Vice,6266538,132,7.2," Biography, Comedy, Drama ", R,12,39528524, Annapurna ,8,"McKay, Adam",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,90,0,Call Me by Your Name,5726616,132,7.9," Drama, Romance ", R,11,9370359, SPC ,4,"Guadagnino, Luca",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017,90,0,Darkest Hour,4555426,125,7.4," Biography, Drama, History, War ", PG-13,11,41085957, Focus ,6,"Wright, Joe",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2017,90,0,Dunkirk,5013056,106,7.9," Action, Drama, History, Thriller, War ", PG-13,7,188045546, WB ,8,"Nolan, Christopher",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+2017,90,0,Get Out,5052448,104,7.7," Horror, Mystery, Thriller ", R,2,175686870, Uni. ,4,"Peele, Jordan",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+2017,90,0,Lady Bird,4925292,94,7.4," Comedy, Drama ", R,3,39167960, A24 ,5,"Gerwig, Greta",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,90,0,Phantom Thread,5776858,130,7.5," Drama, Romance ", R,12,6385599, Focus ,6,"Anderson, Paul Thomas",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017,90,0,The Post,6294822,116,7.2," Biography, Drama, History, Thriller ", PG-13,12,45763616, Fox ,2,"Spielberg, Steven",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+2017,90,1,The Shape of Water,5580390,123,7.3," Adventure, Drama, Fantasy, Romance, Thriller ", R,1,30441204, FoxS ,13,"del Toro, Guillermo",0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+2017,90,0,"Three Billboards outside Ebbing, Missouri",5027774,115,8.2," Crime, Drama ", R,10,32254616, FoxS ,7,"McDonagh, Martin",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,89,0,Arrival,2543164,116,7.9," Drama, Mystery, Sci-Fi, Thriller ", PG-13,11,95701573, Par. ,8,"Villeneuve, Denis",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0
+2016,89,0,Fences,2671706,139,7.2, Drama , PG-13,12,48843693, Par. ,4,"Washington, Denzel",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,89,0,Hacksaw Ridge,2119532,139,8.1," Biography, Drama, History, War ", R,4,65497277, LGF ,6,"Gibson, Mel",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2016,89,0,Hell or High Water,2582782,102,7.6," Action, Crime, Drama, Thriller, Western ", R,12,27007844, LGF ,4,"Mackenzie, David",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+2016,89,0,Hidden Figures,4846340,127,7.8," Biography, Drama, History ", PG,12,85000067, Fox ,3,"Melfi, Theodore",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2016,89,0,La La Land,3783958,128,8," Comedy, Drama, Music, Musical, Romance ", PG-13,9,90487402, LG/S ,14,"Chazelle, Damien",0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0
+2016,89,0,Lion,3741834,118,8.1," Biography, Drama ", PG-13,11,16529441, Wein. ,6,"Davis, Garth",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,89,0,Manchester by the Sea,4034228,137,7.8, Drama , R,11,39013243, RAtt. ,6,"Lonergan, Kenneth",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,89,1,Moonlight,4975722,111,7.4, Drama , R,10,15854580, A24 ,8,"Jenkins, Barry",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,88,0,Bridge of Spies,3682448,142,7.6," Drama, History, Thriller ", PG-13,10,70820425, BV ,6,"Spielberg, Steven",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+2015,88,0,Brooklyn,2381111,117,7.5," Drama, Romance ", PG-13,4,22792955, FoxS ,3,"Crowley, John",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015,88,0,Mad Max: Fury Road,1392190,120,8.1," Action, Adventure, Sci-Fi, Thriller ", R,5,153636354, WB ,10,"Miller, George",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2015,88,0,Room,3170832,118,8.2," Drama, Thriller ", R,10,5245263, A24 ,4,"Abrahamson, Lenny",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2015,88,1,Spotlight,1895587,129,8.1," Crime, Drama ", R,6,28845407, ORF ,6,"McCarthy, Tom",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,88,0,The Big Short,1596363,130,7.8," Biography, Comedy, Drama, History ", R,11,44613566, Par. ,5,"McKay, Adam",0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2015,88,0,The Martian,3659388,144,8," Adventure, Drama, Sci-Fi ", PG-13,2,226621697, Fox ,7,"Scott, Ridley",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2015,88,0,The Revenant,1663202,156,8," Action, Adventure, Biography, Drama, Western ", R,12,54146167, Fox ,12,"Iñárritu, Alejandro G.",1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2014,87,0,American Sniper,2179136,133,7.3," Action, Biography, Drama, War ", R,12,3372722, WB ,6,"Eastwood, Clint",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2014,87,1,Birdman,2562232,119,7.7," Comedy, Drama ", R,10,26601455, FoxS ,9,"Iñárritu, Alejandro G.",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,87,0,Boyhood,1065073,165,7.9, Drama , R,11,24352932, IFC ,6,"Linklater, Richard",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,87,0,Selma,1020072,128,7.5," Biography, Drama, History ", PG-13,12,16548467, Par. ,2,"DuVernay, Ava",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2014,87,0,The Grand Budapest Hotel,2278388,99,8.1," Adventure, Comedy, Crime, Drama ", R,7,59085803, FoxS ,9,"Anderson, Wes",0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,87,0,The Imitation Game,2084970,114,8," Biography, Drama, Thriller, War ", PG-13,11,42776746, Wein. ,8,"Tyldum, Morten",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+2014,87,0,The Theory of Everything,2980516,123,7.7," Biography, Drama, Romance ", PG-13,7,26202405, Focus ,5,"Marsh, James",0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2014,87,0,Whiplash,2582802,106,8.5," Drama, Music ", R,10,6209783, SPC ,5,"Chazelle, Damien",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2013,86,1,12 Years a Slave,2024544,134,8.1," Biography, Drama, History ", R,10,39047653, FoxS ,9,"McQueen, Steve",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2013,86,0,American Hustle,1800241,138,7.2," Crime, Drama ", R,12,104577091, Sony ,10,"Russell, David O.",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,86,0,Captain Phillips,1535109,134,7.8," Biography, Drama, Thriller ", PG-13,11,105054507, Sony ,6,"Greengrass, Paul",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013,86,0,Dallas Buyers Club,790636,117,8," Biography, Drama ", R,1,16811467, Focus ,6,"Vallée, Jean-Marc",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,86,0,Gravity,1454468,91,7.7," Drama, Sci-Fi, Thriller ", PG-13,4,256352541, WB ,10,"Cuarón, Alfonso",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+2013,86,0,Her,1798709,126,8," Drama, Romance, Sci-Fi ", R,12,10446342, WB ,5,"Jonze, Spike",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+2013,86,0,Nebraska,1821549,115,7.7," Adventure, Comedy, Drama ", R,11,8606397, Par. ,6,"Payne, Alexander",0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,86,0,Philomena,2431286,98,7.6," Biography, Comedy, Drama ", PG-13,11,22524332, Wein. ,4,"Frears, Stephen",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,86,0,The Wolf of Wall Street,993846,180,8.2," Biography, Crime, Drama ", R,12,81742323, Par. ,5,"Scorsese, Martin",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,85,0,Amour,1602620,127,7.9," Drama, Romance ", PG-13,12,371137, SPC ,5,"Haneke, Michael",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2012,85,1,Argo,1024648,120,7.7," Biography, Drama, Thriller ", R,12,110313486, WB ,7,"Affleck, Ben",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2012,85,0,Beasts of the Southern Wild,2125435,93,7.3," Adventure, Drama, Fantasy ", PG-13,6,11291569, FoxS ,4,"Zeitlin, Benh",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,85,0,Django Unchained,1853728,165,8.4," Drama, Western ", R,12,112462679, Wein. ,5,"Tarantino, Quentin",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2012,85,0,Les Misérables,1707386,158,7.6," Drama, History, Musical, Romance, War ", PG-13,12,107684800, Uni. ,8,"Hooper, Tom",0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0
+2012,85,0,Life of Pi,454876,127,7.9," Adventure, Drama, Fantasy ", PG,11,91796135, Fox ,11,"Lee, Ang",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,85,0,Lincoln,443272,150,7.4," Biography, Drama, History, War ", PG-13,9,145542887, BV ,12,"Spielberg, Steven",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2012,85,0,Silver Linings Playbook,1045658,122,7.7," Comedy, Drama, Romance ", R,11,35737770, Wein. ,8,"Russell, David O.",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2012,85,0,Zero Dark Thirty,1790885,157,7.4," Drama, Thriller ", R,12,5202671, Sony ,5,"Bigelow, Kathryn",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2011,84,0,Extremely Loud & Incredibly Close,477302,129,6.9," Adventure, Drama, Mystery ", PG-13,12,11431452, WB ,2,"Daldry, Stephen",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2011,84,0,Hugo,970179,126,7.5," Adventure, Drama, Family, Fantasy, Mystery, Romance ", PG,11,55965953, Par. ,11,"Scorsese, Martin",0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,0
+2011,84,0,Midnight in Paris,1605783,94,7.7," Comedy, Fantasy, Romance ", PG-13,5,56448281, SPC ,4,"Allen, Woody",0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2011,84,0,Moneyball,1210166,133,7.6," Biography, Drama, Sport ", PG-13,9,75532877, Sony ,6,"Miller, Bennett",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2011,84,1,The Artist,1655442,100,7.9," Comedy, Drama, Romance ", PG-13,11,12365758, Wein. ,10,"Hazanavicius, Michel",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2011,84,0,The Descendants,1033575,115,7.3," Comedy, Drama ", R,11,51453007, FoxS ,5,"Payne, Alexander",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,84,0,The Help,1454029,146,8.1, Drama , PG-13,10,169599907, BV ,4,"Taylor, Tate",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,84,0,The Tree of Life,478304,139,6.8," Drama, Fantasy ", PG-13,5,13303319, FoxS ,3,"Malick, Terrence",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2011,84,0,War Horse,1568911,146,7.2," Drama, History, War ", PG-13,12,72566513, BV ,6,"Spielberg, Steven",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2010,83,0,127 Hours,1542344,94,7.6," Adventure, Biography, Drama, Thriller ", R,5,11309393, FoxS ,6,"Boyle, Danny",0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2010,83,0,Black Swan,947798,108,8," Drama, Thriller ", R,3,83741344, FoxS ,5,"Aronofsky, Darren",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2010,83,0,Inception,1375666,148,8.8," Action, Adventure, Sci-Fi, Thriller ", PG-13,7,292576195, WB ,8,"Nolan, Christopher",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2010,83,0,The Fighter,964517,116,7.8," Biography, Drama, Sport ", R,10,73000926, Par. ,7,"Russell, David O.",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2010,83,0,The Kids Are All Right,842926,106,7," Comedy, Drama, Romance ", R,9,20811365, Focus ,4,"Cholodenko, Lisa",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2010,83,1,The King's Speech,1504320,118,8," Biography, Drama, History ", PG-13,11,57949346, Wein. ,12,"Hooper, Tom",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,83,0,The Social Network,1285016,120,7.7," Biography, Drama ", PG-13,1,95442039, Sony ,8,"Fincher, David",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,83,0,Toy Story 3,435761,103,8.3," Animation, Adventure, Comedy, Family, Fantasy ", G,6,415004880, BV ,5,"Unkrich, Lee",0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2010,83,0,True Grit,1403865,110,7.6," Adventure, Drama, Western ", PG-13,12,138507277, Par. ,10,Coen Brothers,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2010,83,0,Winter's Bone,1399683,100,7.2," Drama, Mystery ", R,11,6271670, RAtt. ,4,"Granik, Debra",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2009,82,0,A Serious Man,1019452,106,7.1," Comedy, Drama ", R,2,9228768, Focus ,2,Coen Brothers,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,82,0,An Education,1174732,100,7.3, Drama , PG-13,9,8812461, SPC ,3,"Scherfig, Lone",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,82,0,Avatar,499549,162,7.8," Action, Adventure, Fantasy, Sci-Fi ", PG-13,12,598453037, Fox ,9,"Cameron, James",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+2009,82,0,District 9,1136608,112,7.9," Action, Sci-Fi, Thriller ", R,8,115646235, TriS ,4,"Blomkamp, Neill",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2009,82,0,Inglourious Basterds,361748,153,8.3," Adventure, Drama, War ", R,8,120540719, Wein. ,8,"Tarantino, Quentin",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2009,82,0,Precious: Based on the Novel Push by Sapphire,929632,110,7.3, Drama , R,6,45469462, LGF ,6,"Daniels, Lee",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,82,0,The Blind Side,878804,129,7.7," Biography, Drama, Sport ", PG-13,11,238142164, WB ,2,"Hancock, John Lee",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2009,82,1,The Hurt Locker,887912,131,7.6," Drama, Thriller, War ", R,6,12671105, Sum. ,9,"Bigelow, Kathryn",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+2009,82,0,Up,1049413,96,8.3," Animation, Adventure, Comedy, Family ", PG,5,293004164, BV ,5,"Docter, Pete",0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2009,82,0,Up in the Air,1193138,109,7.4," Comedy, Drama, Romance ", R,4,73475110, Par. ,6,"Reitman, Jason",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2008,81,0,Frost/Nixon,870111,122,7.7," Biography, Drama, History ", R,5,8888701, Uni. ,5,"Howard, Ron",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2008,81,0,Milk,1013753,128,7.6," Biography, Drama ", R,11,20655400, Focus ,8,"Van Sant, Gus",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,81,1,Slumdog Millionaire,1010048,120,8," Drama, Romance ", R,12,44711799, FoxS ,10,"Boyle, Danny",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2008,81,0,The Curious Case of Benjamin Button,421715,166,7.8," Drama, Fantasy, Romance ", PG-13,12,104388850, Par. ,13,"Fincher, David",0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+2008,81,0,The Reader,976051,124,7.6," Drama, Romance ", R,10,8061881, Wein. ,5,"Daldry, Stephen",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2007,80,0,Atonement,783233,123,7.8," Drama, Mystery, Romance, War ", R,7,32653183, Focus ,8,"Wright, Joe",0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+2007,80,0,Juno,467406,96,7.5," Comedy, Drama ", PG-13,5,87092615, FoxS ,7,"Reitman, Jason",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,80,0,Michael Clayton,465538,119,7.3," Crime, Drama, Mystery, Thriller ", R,5,39399327, WB ,4,"Gilroy, Tony",0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+2007,80,1,No Country for Old Men,477348,122,8.1," Crime, Drama, Thriller ", R,9,48899543, Mira. ,7,Coen Brothers,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2007,80,0,There Will Be Blood,469494,158,8.2, Drama , R,12,8696622, ParV ,8,"Anderson, Paul Thomas",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,79,0,Babel,449467,143,7.5, Drama , R,10,23838933, ParV ,7,"Iñárritu, Alejandro G.",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,79,0,Letters from Iwo Jima,498380,141,7.9," Drama, History, War ", R,12,2594775, WB ,4,"Eastwood, Clint",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2006,79,0,Little Miss Sunshine,449059,101,7.8," Comedy, Drama ", R,7,59594615, FoxS ,4,"Dayton, Jonathan & Faris, Valerie",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,79,1,The Departed,407887,151,8.5," Crime, Drama, Thriller ", R,6,121756022, WB ,5,"Scorsese, Martin",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2006,79,0,The Queen,436697,103,7.3," Biography, Drama, History ", PG-13,9,35868000, Mira. ,6,"Frears, Stephen",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2005,78,0,Brokeback Mountain,388795,134,7.7," Drama, Romance ", R,9,51650000, Focus ,8,"Lee, Ang",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2005,78,0,Capote,379725,114,7.4," Biography, Crime, Drama, History ", R,9,15413155, SPC ,5,"Miller, Bennett",0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2005,78,1,Crash,375679,112,7.8," Crime, Drama, Thriller ", R,6,53404817, Lions ,6,"Haggis, Paul",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2005,78,0,"Good Night, and Good Luck.",433383,93,7.5," Biography, Drama, History ", PG,7,25150210, WIP ,5,"Clooney, George",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2005,78,0,Munich,408306,164,7.6," Drama, History, Thriller ", R,12,40780340, Uni. ,6,"Spielberg, Steven",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+2004,77,0,Finding Neverland,308644,106,7.7," Biography, Drama, Family ", PG,12,32712690, Mira. ,7,"Forster, Marc",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+2004,77,1,Million Dollar Baby,405159,132,8.1," Drama, Sport ", PG-13,12,8499006, WB ,7,"Eastwood, Clint",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2004,77,0,Ray,350258,152,7.7," Biography, Drama, Music ", PG-13,10,73075825, Uni. ,6,"Hackford, Taylor",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2004,77,0,Sideways,375063,127,7.5," Comedy, Drama, Romance ", R,10,32428941, FoxS ,5,"Payne, Alexander",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2004,77,0,The Aviator,338751,170,7.5," Biography, Drama ", PG-13,12,58465000, Mira. ,11,"Scorsese, Martin",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,76,0,Lost in Translation,335266,102,7.8, Drama , R,12,34839137, Focus ,4,"Coppola, Sofia",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,76,0,Master and Commander: The Far Side of the World,311113,138,7.4," Action, Adventure, Drama, History, War ", PG-13,11,85327367, Fox ,10,"Weir, Peter",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+2003,76,0,Mystic River,327056,138,8," Crime, Drama, Mystery, Thriller ", R,8,59114051, WB ,6,"Eastwood, Clint",0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+2003,76,0,Seabiscuit,329575,140,7.3," Drama, History, Sport ", PG-13,7,120231534, Uni. ,7,"Ross, Gary",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+2003,76,1,The Lord of the Rings: The Return of the King,167260,201,8.9," Adventure, Drama, Fantasy ", PG-13,12,338345008, NL ,11,"Jackson, Peter",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2002,75,1,Chicago,299658,113,7.2," Comedy, Crime, Musical ", PG-13,12,64568153, Mira. ,13,"Marshall, Rob",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2002,75,0,Gangs of New York,217505,167,7.5," Crime, Drama ", R,12,70108275, Mira. ,10,"Scorsese, Martin",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,75,0,The Hours,274558,110,7.6," Drama, Romance ", PG-13,12,21883139, Par. ,9,"Daldry, Stephen",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2002,75,0,The Lord of the Rings: The Two Towers,167261,179,8.7," Adventure, Drama, Fantasy ", PG-13,12,321086387, NL ,6,"Jackson, Peter",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2002,75,0,The Pianist,253474,150,8.5," Biography, Drama, Music, War ", R,12,9153307, Focus ,7,"Polanski, Roman",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+2001,74,1,A Beautiful Mind,268978,135,8.2," Biography, Drama ", PG-13,12,113704771, Uni. ,8,"Howard, Ron",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,74,0,Gosford Park,280707,131,7.3," Comedy, Drama, Mystery ", R,12,22264690, USA ,7,"Altman, Robert",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2001,74,0,In the Bedroom,247425,130,7.4," Crime, Drama ", R,11,19516426, Mira. ,5,"Field, Todd",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,74,0,Moulin Rouge,203009,127,7.6," Drama, Musical, Romance ", PG-13,5,57135166, Fox ,8,"Luhrmann, Baz",0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+2001,74,0,The Lord of the Rings: The Fellowship of the Ring,120737,178,8.8," Adventure, Drama, Fantasy ", PG-13,12,271678039, NL ,13,"Jackson, Peter",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2000,73,0,Chocolat,241303,121,7.3," Drama, Romance ", PG-13,12,27071662, Mira. ,5,"Hallström, Lasse",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2000,73,0,"Crouching Tiger, Hidden Dragon",190332,120,7.9," Action, Adventure, Fantasy, Romance ", PG-13,8,60765739, SPC ,10,"Lee, Ang",1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2000,73,0,Erin Brockovich,195685,131,7.3," Biography, Drama ", R,3,125595205, Uni. ,5,"Soderbergh, Steven",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,73,1,Gladiator,172495,155,8.5," Action, Adventure, Drama ", R,5,186610052, DW ,12,"Scott, Ridley",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2000,73,0,Traffic,181865,147,7.6," Crime, Drama, Thriller ", R,12,71208084, USA ,5,"Soderbergh, Steven",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1999,72,1,American Beauty,169547,122,8.4, Drama , R,9,74681000, DW ,8,"Mendes, Sam",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1999,72,0,The Cider House Rules,124315,126,7.4," Drama, Romance ", PG-13,10,20731033, Mira. ,7,"Hallström, Lasse",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1999,72,0,The Green Mile,120689,189,8.6," Crime, Drama, Fantasy, Mystery ", R,10,120617988, WB ,4,"Darabont, Frank",0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+1999,72,0,The Insider,140352,157,7.9," Biography, Drama, Thriller ", R,5,26600240, BV ,7,"Mann, Michael",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1999,72,0,The Sixth Sense,167404,107,8.1," Drama, Mystery, Thriller ", PG-13,6,278406022, BV ,6,"Shyamalan, M. Night",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+1998,71,0,Elizabeth,127536,124,7.5," Biography, Drama, History ", R,6,21394848, Gram. ,7,"Kapur, Shekhar",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1998,71,0,Life Is Beautiful,118799,116,8.6," Comedy, Drama, Romance, War ", PG-13,10,18486644, Mira. ,7,"Benigni, Roberto",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+1998,71,0,Saving Private Ryan,120815,169,8.6," Drama, War ", R,7,194928728, DW ,11,"Spielberg, Steven",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1998,71,1,Shakespeare in Love,138097,123,7.1," Comedy, Drama, History, Romance ", R,11,36549292, Mira. ,7,"Madden, John",0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+1998,71,0,The Thin Red Line,120863,170,7.6," Drama, War ", R,12,30624528, Fox ,7,"Malick, Terrence",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+1997,70,0,As Good as It Gets,119822,139,7.7," Comedy, Drama, Romance ", PG-13,12,92637620, Sony ,7,"Brooks, James L.",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1997,70,0,Good Will Hunting,119217,126,8.3," Drama, Romance ", R,5,68865287, Mira. ,9,"Van Sant, Gus",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1997,70,0,L.A. Confidential,119488,138,8.3," Crime, Drama, Mystery, Thriller ", R,9,39738569, WB ,9,"Hanson, Curtis",0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+1997,70,0,The Full Monty,119164,91,7.2," Comedy, Drama ", R,8,38862223, FoxS ,4,"Cattaneo, Peter",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1997,70,1,Titanic,120338,194,7.8," Drama, Romance ", PG-13,12,338710764, Par. ,14,"Cameron, James",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1996,69,0,Fargo,116282,98,8.1," Crime, Drama, Thriller ", R,8,24083318, Gram. ,8,Coen Brothers,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1996,69,0,Jerry Maguire,116695,139,7.3," Comedy, Drama, Romance, Sport ", R,12,121503645, Sony ,6,"Crowe, Cameron",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+1996,69,0,Secrets & Lies,117589,136,8, Drama , R,9,5935107, Oct. ,5,"Leigh, Mike",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1996,69,0,Shine,117631,105,7.7," Biography, Drama, Music, Romance ", PG-13,11,16131059, FL ,8,"Hicks, Scott",0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+1996,69,1,The English Patient,116209,162,7.4," Drama, Romance, War ", R,11,42319574, Mira. ,12,"Minghella, Anthony",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+1995,68,0,Apollo 13,112384,140,7.6," Adventure, Drama, History ", PG,6,172071312, Uni. ,9,"Howard, Ron",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1995,68,0,Babe,112431,91,6.8," Comedy, Drama, Family ", G,4,58169701, Uni. ,7,"Noonan, Chris",0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1995,68,1,Braveheart,112573,178,8.4," Biography, Drama, History, War ", R,5,67047523, Par. ,10,"Gibson, Mel",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+1995,68,0,Sense and Sensibility,114388,136,7.7," Drama, Romance ", PG,12,24621781, Sony ,7,"Lee, Ang",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1995,68,0,The Postman (Il Postino),110877,108,7.7," Biography, Comedy, Drama, Romance ", PG,6,10695348, Mira. ,5,"Radford, Michael & Troisi, Massimo",0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1994,67,1,Forrest Gump,109830,142,8.8," Drama, Romance ", PG-13,6,300565286, Par. ,13,"Zemeckis, Robert",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1994,67,0,Four Weddings and a Funeral,109831,117,7.1," Comedy, Drama, Romance ", R,11,52700832, Gram. ,2,"Newell, Mike",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1994,67,0,Pulp Fiction,110912,154,8.9," Crime, Drama ", R,10,76342767, Mira. ,7,"Tarantino, Quentin",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1994,67,0,Quiz Show,110932,133,7.5," Biography, Drama, History ", PG-13,9,21949754, BV ,4,"Redford, Robert",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1994,67,0,The Shawshank Redemption,111161,142,9.3, Drama , R,9,16781812, Col. ,7,"Darabont, Frank",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1993,66,0,In the Name of the Father,107207,133,8.1," Biography, Drama ", R,12,6530100, Uni. ,7,"Sheridan, Jim",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1993,66,1,Schindler's List,108052,195,8.9," Biography, Drama, History ", R,12,29649653, Uni. ,12,"Spielberg, Steven",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1993,66,0,The Fugitive,106977,130,7.8," Action, Crime, Drama, Mystery, Thriller ", PG-13,6,179427011, WB ,7,"Davis, Andrew",1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+1993,66,0,The Piano,107822,121,7.6," Drama, Music, Romance ", R,12,25663999, Mira. ,8,"Campion, Jane",0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+1993,66,0,The Remains of the Day,107943,134,7.9," Drama, Romance ", PG,5,19527989, Col. ,8,"Ivory, James",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1992,65,0,A Few Good Men,104257,138,7.7," Drama, Thriller ", R,11,120081100, Col. ,4,"Reiner, Rob",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1992,65,0,Howards End,104454,142,7.5," Drama, Romance ", PG,3,8741291, SPC ,9,"Ivory, James",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1992,65,0,Scent of a Woman,105323,156,8, Drama , R,12,34148209, Uni. ,4,"Brest, Martin",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1992,65,0,The Crying Game,104036,112,7.3," Crime, Drama, Romance, Thriller ", R,11,14026831, Mira. ,6,"Jordan, Neil",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+1992,65,1,Unforgiven,105695,130,8.2," Drama, Western ", R,7,75285393, WB ,9,"Eastwood, Clint",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+1991,64,0,Beauty and the Beast,2771200,129,7.2," Family, Fantasy, Musical, Romance ", PG,11,106586179, BV ,6,"Condon, Bill",0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0
+1991,64,0,Bugsy,101516,136,6.8," Biography, Crime, Drama ", R,12,38880024, TriS ,10,"Levinson, Barry",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1991,64,0,JFK,102138,189,8," Drama, History, Thriller ", R,12,58112996, WB ,8,"Stone, Oliver",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+1991,64,0,The Prince of Tides,102713,132,6.7," Drama, Romance ", R,12,59335243, Col. ,7,"Streisand, Barbra",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1991,64,1,The Silence of the Lambs,102926,118,8.6," Crime, Drama, Thriller ", R,2,130742922, Orion ,7,"Demme, Jonathan",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1990,63,0,Awakenings,99077,121,7.8," Biography, Drama ", PG-13,12,36783875, Col. ,3,"Marshall, Penny",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1990,63,1,Dances With Wolves,99348,181,8," Adventure, Drama, Western ", PG-13,9,104349829, Orion ,12,"Costner, Kevin",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+1990,63,0,Ghost,99653,127,7," Drama, Fantasy, Romance, Thriller ", PG-13,7,213565446, Par. ,5,"Zucker, Jerry",0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+1990,63,0,GoodFellas,99685,146,8.7," Biography, Crime, Drama ", R,9,41010330, WB ,6,"Scorsese, Martin",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1990,63,0,The Godfather Part III,99674,162,7.6," Crime, Drama ", R,12,62504417, Par. ,7,"Coppola, Francis Ford",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
